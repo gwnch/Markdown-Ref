@@ -20,12 +20,14 @@ ___
 ## Lists
 ```
 1. ordered list
-  * sublist
-- unordered list
+2. item 2
+* unordered list 1
+- unordered list 2
 ```
 1. ordered list
-  * sublist
-- unordered list
+2. item 2<br>
+* unordered list 1
+- unordered list 2
 ___
 ## Styling
 ```
